@@ -1,0 +1,21 @@
+{
+  "name": "practice-jan-2024-heroku-api",
+  "version": "1.0.0",
+  "description": "Testing development of nodejs API on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-laws/practice-jan-2024-heroku-api.git"
+  },
+  "author": "Robert Laws",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
